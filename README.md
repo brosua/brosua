@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Developer working in Dresden, Germany.
 
-- 🏢 I'm currently working at **T-Systems MMS**
+- 🏢 I'm currently working at **Telekom MMS**
 - 🌍 I'm mostly active within the **TYPO3 Community**
 - 🌱 I love **Open Source**
 
